@@ -12,7 +12,7 @@ export default function Home() {
       <hr></hr>
        <p>Introduce yourself.  What are your hobbies, favourite music, favourite food, and other things you can tell me about yourself?</p>
       
-       <p><strong> I am Jerome Howard S. Miclat, My hobbies are playing video games and building computers. My current favorite music is music by Keshi, Chappell Roan, The 1975, and Valley. My favourite food would be: <ul> <li>Beef Bulalo</li> <li>Beef KareKare</li> <li>Pork Katsudon</li> </ul> Additional things to know about me is that I learn quickly as long as the topic is explained well. </strong></p>
+       <p><strong> I am Jerome Howard S. Miclat, My hobbies are playing video games and building computers. My current favorite music is music by: <ul><li>Keshi</li> <li>Chappell Roan</li> <li>The 1975</li> <li>Valley</li></ul> My favourite food would be: <ul> <li>Beef Bulalo</li> <li>Beef KareKare</li> <li>Pork Katsudon</li> </ul> Additional things to know about me is that I learn quickly as long as the topic is explained well. </strong></p>
 
        <hr></hr>
        <p> Why did you take up IT?</p> <p><strong> Not my first choice, but It is also within my interests so I stopped chasing after a medical profession to make way for my sister. I don't really feel that I regret it since I am enjoying myself in this course.
